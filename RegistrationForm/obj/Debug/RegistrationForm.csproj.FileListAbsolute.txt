@@ -1,0 +1,9 @@
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
